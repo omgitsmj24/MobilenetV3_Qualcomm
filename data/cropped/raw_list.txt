@@ -1,0 +1,4 @@
+/home/dfe/snpe/snpe-2.10.0.4541/models/mobilenet_v3_minimalistic/data/cropped/trash_bin.raw
+/home/dfe/snpe/snpe-2.10.0.4541/models/mobilenet_v3_minimalistic/data/cropped/chairs.raw
+/home/dfe/snpe/snpe-2.10.0.4541/models/mobilenet_v3_minimalistic/data/cropped/notice_sign.raw
+/home/dfe/snpe/snpe-2.10.0.4541/models/mobilenet_v3_minimalistic/data/cropped/plastic_cup.raw
